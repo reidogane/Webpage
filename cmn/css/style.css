@@ -1,0 +1,369 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.fa-brands {
+  transition: .7s;
+ } 
+
+.fa-brands:hover {
+ transform: scale(1.3);
+ opacity: 0.6;
+}
+
+.container {
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  margin: 0 auto;
+}
+
+header {
+  display: block;
+  color: white;
+  background-color: black;
+  height: 80px;
+  width: 100%;
+  position: fixed;
+  overflow: visible;
+  top: 0;
+  z-index: 1000;
+}
+
+.header-logo {
+  font-size: 36px;
+  padding: 20px 40px;
+  float: left;
+  transition: .7s;
+}
+
+.header-logo:hover {
+  transform: scale(1.1);
+  opacity: 0.7;
+}
+
+.header-list {
+  display: flex;
+}
+
+.header-list li {
+  float: left;
+  flex: auto;
+  padding: 33px 20px;
+  transition: .7s;
+}
+
+.header-list li:hover {
+  transform: scale(1.3);
+  opacity: 0.7;
+}
+
+.topics-title {
+  font-size: 2rem;
+  text-align: left;
+  position: relative;
+  color: inherit;
+  background-color: transparent;
+  border: none;
+  padding: 0.6em 0 0.5em;
+  margin-bottom: 1.2em;
+  border-bottom: solid 1px #333;
+}
+
+.topics-text {
+  text-align: center;
+}
+
+footer {
+  background-color: #EBF6F7;
+}
+
+.footer-social-icons {
+  padding: 10px 0;
+}
+
+.footer-image {
+  display: inline-block;
+  margin: 27.5px 0;
+}
+
+.footer-image img {
+  border-radius: 4px;
+  transition: .7s;
+}
+
+.footer-image img:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
+
+.footer-text {
+  color: black;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  padding-top: 120px;
+  margin-left: 10px;
+  transition: .7s;
+}
+
+.footer-text:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
+
+.footer-copyright {
+  color: black;
+  text-align: center;
+  margin: 0.5rem;
+}
+
+.home-main-section {
+  background-color: gray;
+}
+
+.contact-form p {
+  float: left;
+  padding-bottom: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.contact-submit {
+  float: left;
+  width: 140px;
+  color: white;
+  background-color: black;
+  border-radius: 4px;
+  transition: .7s;
+}
+.contact-submit:hover {
+  transform: scale(1.1);
+  opacity: 0.6;
+}
+
+.contact-submit:active {
+  opacity: 1;
+}
+
+.page-main {
+  margin-bottom: 1.2em;
+}
+
+.page-header {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  align-items: center;
+  z-index: 1;
+  min-height: 8rem;
+  text-align: center;
+}
+
+.page-header-inner {
+  position: relative;
+  z-index: 5;
+  margin: 1.5em auto;
+}
+
+.page-header-title {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: var(--vk-line-height-low);
+  padding-top: 160px;
+  padding-bottom: 80px;
+  margin: 0;
+}
+
+.discography-title {
+  font-size: 2rem;
+  text-align: left;
+  position: relative;
+  color: inherit;
+  background-color: transparent;
+  border: none;
+  padding: 0.6em 0 0.5em;
+  margin-bottom: 1.2em;
+  border-bottom: solid 1px #333;
+}
+
+.discography-image {
+  float: left;
+  transition: .7s;
+}
+
+.discography-image:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
+}
+
+.discography-content {
+  margin-bottom: 130px;
+}
+
+.discography-content-text {
+  text-align: center;
+  transition: .7s;
+}
+.discography-content-text:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
+
+.discography-content-text h1 {
+  padding-top: 60px;
+  margin-bottom: 27.5px;
+}
+
+.discography-content-text h4 {
+  margin-bottom: 17.5px;
+}
+
+.lyrics-title {
+  font-size: 2rem;
+  text-align: left;
+  position: relative;
+  color: inherit;
+  background-color: transparent;
+  border: none;
+  padding: 0.6em 0 0.5em;
+  margin-bottom: 1.2em;
+  border-bottom: solid 1px #333;
+}
+
+.lyrics-content-text h1 {
+  text-align: center;
+}
+
+.biography-image {
+  display: block;
+  text-align: center;
+  position: relative;
+  z-index: 5;
+  margin: 1.5em auto;
+  border-radius: 10px;
+  transition: .7s;
+}
+
+.biography-image:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
+
+.biography-member h1 {
+  font-size: 2rem;
+  text-align: left;
+  position: relative;
+  color: inherit;
+  background-color: transparent;
+  border: none;
+  padding: 0.6em 0 0.5em;
+  margin-bottom: 1.2em;
+  border-bottom: solid 1px #333;
+}
+
+.biography-member p {
+  text-align: center;
+  transition: .7s;
+}
+
+.biography-member p:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
+
+
+.biography-profile h1 {
+  font-size: 2rem;
+  text-align: left;
+  position: relative;
+  color: inherit;
+  background-color: transparent;
+  border: none;
+  padding: 0.6em 0 0.5em;
+  margin-bottom: 1.2em;
+  border-bottom: solid 1px #333;
+}
+
+.biography-profile p {
+  text-align: center;
+  transition: .7s;
+}
+
+.biography-profile p:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
+
+.live-dates h1 {
+  font-size: 2rem;
+  text-align: left;
+  position: relative;
+  color: inherit;
+  background-color: transparent;
+  border: none;
+  padding: 0.6em 0 0.5em;
+  margin-bottom: 1.2em;
+  border-bottom: solid 1px #333;
+}
+
+.live-dates p {
+  text-align: center;
+}
+
+.past-dates h1 {
+  font-size: 2rem;
+  text-align: left;
+  position: relative;
+  color: inherit;
+  background-color: transparent;
+  border: none;
+  padding: 0.6em 0 0.5em;
+  margin-bottom: 1.2em;
+  border-bottom: solid 1px #333;
+}
+
+.live-image {
+  display: block;
+  text-align: center;
+  position: relative;
+  z-index: 5;
+  margin: 1.5em auto;
+  border-radius: 10px;
+  transition: .7s;
+}
+
+.live-image:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
+}
