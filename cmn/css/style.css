@@ -291,16 +291,13 @@ input, textarea {
 }
 
 .lyrics-content-text {
+  text-align: center;
   transition: .7s;
 }
 
 .lyrics-content-text:hover {
   transform: scale(1.1);
   opacity: 0.9;
-}
-
-.lyrics-content-text h1 {
-  text-align: center;
 }
 
 .biography-image {
