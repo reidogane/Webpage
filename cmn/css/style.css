@@ -204,20 +204,6 @@ input, textarea {
   margin-bottom: 30px;
 }
 
-.contact-submit {
-  float: left;
-  width: 140px;
-  color: white;
-  background-color: black;
-  border-radius: 4px;
-  transition: .7s;
-}
-
-.contact-submit:hover {
-  transform: scale(1.1);
-  opacity: 0.6;
-}
-
 .page-header {
   margin-top: 0;
   margin-bottom: 0;
