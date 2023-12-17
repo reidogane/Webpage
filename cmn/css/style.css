@@ -411,6 +411,12 @@ input, textarea {
 
 .live-dates p {
   text-align: center;
+  transition: .7s;
+}
+
+.live-dates p:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
 }
 
 .past-dates h1 {
