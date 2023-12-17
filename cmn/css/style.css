@@ -24,9 +24,16 @@ a {
 
 .btn {
   width: 200px;
+  display: inline-block;
   color: white;
   background-color: black;
   border-radius: 4px;
+  transition: .7s;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+  opacity: 0.6;
 }
 
 .fa-brands {
@@ -199,14 +206,8 @@ input, textarea {
   margin-bottom: 100px;
 }
 
-.topics-content-button {
-  float: left;
-  transition: .7s;
-}
-
-.topics-content-botton:hover {
-  transform: scale(1.1);
-  opacity: 0.6;
+.page-main {
+  margin-bottom: 100px;
 }
 
 .page-header {
