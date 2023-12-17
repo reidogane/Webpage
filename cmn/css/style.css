@@ -412,6 +412,8 @@ input, textarea {
 .live-dates p {
   font-weight: bold;
   text-align: center;
+  padding: 20px auto;
+  margin: 20px auto;
   transition: .7s;
 }
 
