@@ -410,6 +410,7 @@ input, textarea {
 }
 
 .live-dates p {
+  font-weight: bold;
   text-align: center;
   transition: .7s;
 }
