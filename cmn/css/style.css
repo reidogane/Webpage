@@ -107,6 +107,16 @@ header {
   margin-bottom: 100px;
 }
 
+.topics-text {
+  font-weight: bold;
+  transition: .7s;
+}
+
+.topics-text:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
+
 .topics-title {
   font-size: 2rem;
   text-align: left;
