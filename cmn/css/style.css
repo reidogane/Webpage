@@ -187,7 +187,7 @@ footer {
 }
 
 .contact-form-content:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
   opacity: 0.9;
 }
 
@@ -197,6 +197,7 @@ footer {
 
 input, textarea {
   width: 100%;
+  font-size: 18px;
   border: 1px solid #dee7ec;
   border-radius: 4px;
   padding: 20px;
