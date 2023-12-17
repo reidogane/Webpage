@@ -415,8 +415,8 @@ input, textarea {
 }
 
 .live-dates p:hover {
-  transform: scale(1.1);
-  opacity: 0.9;
+  transform: scale(1.2);
+  opacity: 0.8;
 }
 
 .past-dates h1 {
