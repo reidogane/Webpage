@@ -189,8 +189,8 @@ footer {
 
 input, textarea {
   width: 100%;
-  font-size: 18px;
   border: 1px solid #dee7ec;
+  border-radius: 4px;
   padding: 20px;
   margin-bottom: 30px;
 }
