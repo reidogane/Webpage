@@ -321,6 +321,21 @@ input, textarea {
   opacity: 0.9;
 }
 
+.news-content {
+  padding: 30px 0;
+}
+
+.news-content-text {
+  text-align: center;
+  transition: .7s;
+}
+
+.news-content-text:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
+
+
 .biography-image {
   display: block;
   text-align: center;
