@@ -306,7 +306,7 @@ input, textarea {
 }
 
 .lyrics-content-text:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
   opacity: 0.9;
 }
 
