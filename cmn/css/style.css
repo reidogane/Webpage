@@ -301,12 +301,13 @@ input, textarea {
 }
 
 .lyrics-content-text {
+  padding: 50px auto;
   text-align: center;
   transition: .7s;
 }
 
 .lyrics-content-text:hover {
-  transform: scale(1.05);
+  transform: scale(1.07);
   opacity: 0.9;
 }
 
