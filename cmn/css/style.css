@@ -327,7 +327,7 @@ input, textarea {
 }
 
 .news-content {
-  padding: 50px auto;
+  margin: 50px auto;
   font-weight: bold;
   text-align: center;
   transition: .7s;
