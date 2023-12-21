@@ -327,20 +327,16 @@ input, textarea {
 }
 
 .news-content {
-  padding: 30px 0;
-}
-
-.news-content-text {
+  padding: 30px auto;
   font-weight: bold;
   text-align: center;
   transition: .7s;
 }
 
-.news-content-text:hover {
+.news-content:hover {
   transform: scale(1.2);
   opacity: 0.9;
 }
-
 
 .biography-image {
   display: block;
