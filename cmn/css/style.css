@@ -365,12 +365,12 @@ input, textarea {
   border-bottom: solid 1px #333;
 }
 
-.biography-member p {
+.biography-member li {
   text-align: center;
   transition: .7s;
 }
 
-.biography-member p:hover {
+.biography-member li:hover {
   transform: scale(1.1);
   opacity: 0.9;
 }
