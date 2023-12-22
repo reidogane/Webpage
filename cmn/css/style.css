@@ -481,14 +481,10 @@ input, textarea {
 }
 
 .blog-content:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
   opacity: 0.9;
 }
 
 .blog-content-subject {
   font-weight: bold;
-}
-
-.blog-content-text {
-  width: 1000px;
 }
