@@ -412,7 +412,7 @@ input, textarea {
 
 .live-dates p {
   text-align: center;
-  padding: 50px auto;
+  margin: 50px auto;
   transition: .7s;
 }
 
@@ -435,7 +435,7 @@ input, textarea {
 
 .past-dates-content {
   text-align: center;
-  padding: 50px auto;
+  margin: 50px auto;
   transition: .7s;
 }
 
