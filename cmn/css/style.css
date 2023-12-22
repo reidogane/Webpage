@@ -47,9 +47,10 @@ a {
  opacity: 0.6;
 }
 
-.twitter-tweet {
+.video {
   display: block;
   text-align: center;
+  margin: 0 auto;
 }
 
 .container {
