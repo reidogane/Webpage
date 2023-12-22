@@ -485,7 +485,7 @@ input, textarea {
   opacity: 0.9;
 }
 
-.blog-content-subject {
+.blog-content-subject h2 {
   font-weight: bold;
 }
 
