@@ -52,6 +52,10 @@ a {
   margin: 0 auto;
 }
 
+.twitter-tweet {
+  margin: 0 auto;
+}
+
 .container {
   max-width: 1170px;
   width: 100%;
