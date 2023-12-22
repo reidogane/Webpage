@@ -488,3 +488,7 @@ input, textarea {
 .blog-content-subject {
   font-weight: bold;
 }
+
+.blog-content-text {
+  width: 1000px;
+}
