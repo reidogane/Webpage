@@ -338,6 +338,10 @@ input, textarea {
   opacity: 0.9;
 }
 
+.news-content h2 {
+  font-weight: bold;
+}
+
 .biography-image {
   display: block;
   text-align: center;
