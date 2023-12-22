@@ -47,6 +47,11 @@ a {
  opacity: 0.6;
 }
 
+.twitter-tweet {
+  display: block;
+  text-align: center;
+}
+
 .container {
   max-width: 1170px;
   width: 100%;
