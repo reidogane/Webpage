@@ -49,6 +49,7 @@ a {
 
 .twitter-tweet {
   margin: 0 auto;
+  border-radius: 10px;
 }
 
 .container {
