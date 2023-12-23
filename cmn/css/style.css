@@ -22,6 +22,10 @@ a {
   text-decoration: none;
 }
 
+blockquote {
+  border-radius: 10px;
+}
+
 .btn {
   width: 140px;
   padding: 20px;
@@ -75,7 +79,7 @@ header {
 }
 
 .header-logo {
-  font-size: 30px;
+  font-size: 25px;
   padding: 20px 40px;
   float: left;
   transition: .7s;
