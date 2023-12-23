@@ -499,6 +499,10 @@ input, textarea {
   font-weight: bold;
 }
 
+.gallery-content-lyrics {
+  text-align: center;
+}
+
 .gallery-content-text {
   text-align: left;
 }
