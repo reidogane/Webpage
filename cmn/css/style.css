@@ -469,7 +469,7 @@ input, textarea {
   opacity: 0.8;
 }
 
-.blog-image {
+.gallery-image {
   display: block;
   text-align: center;
   position: relative;
@@ -479,26 +479,26 @@ input, textarea {
   transition: .7s;
 }
 
-.blog-image:hover {
+.gallery-image:hover {
   transform: scale(1.1);
   opacity: 0.8;
 }
 
-.blog-content {
+.gallery-content {
   margin: 50px auto;
   text-align: center;
   transition: .7s;
 }
 
-.blog-content:hover {
+.gallery-content:hover {
   transform: scale(1.05);
   opacity: 0.9;
 }
 
-.blog-content-subject h2 {
+.gallery-content-subject h2 {
   font-weight: bold;
 }
 
-.blog-content-text {
+.gallery-content-text {
   text-align: left;
 }
