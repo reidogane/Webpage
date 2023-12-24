@@ -1,13 +1,21 @@
-@media all and (max-width: 1000px) {
-
-}
-
 @media all and (max-width: 670px) {
     .header-list {
         display: none;
-      }
+    }
     
     .header-menu-icon {
         display: block;
-      }
+    }
+
+    .header-logo {
+        font-size: 20px;
+    }
+
+    .footer-image img {
+        transform: scale(.8);
+    }
+
+    .footer-text {
+        display: block;
+    }
 }
