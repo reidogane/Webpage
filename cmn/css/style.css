@@ -157,13 +157,13 @@ footer {
 }
 
 .footer-image img {
+  width: 500px; 
+  height: 375px;
   border-radius: 6px;
   transition: .7s;
 }
 
 .footer-image img:hover {
-  width: 500px; 
-  height: 375px;
   transform: scale(1.1);
   opacity: 0.9;
 }
