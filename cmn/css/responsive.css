@@ -28,7 +28,8 @@
 
     .footer-text {
         display: block;
-        padding-top: 20px;
+        text-align: left;
+        padding-top: 10px;
         padding-left: 0;
         margin-left: 0;
     }
