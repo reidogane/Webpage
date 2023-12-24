@@ -17,19 +17,19 @@
     }
 
     .footer-image {
-        float: left;
+        display: block;
         margin: 0;
     }
 
     .footer-image img {
-        transform: scale(.6);
+        width: 100%;
     }
 
     .footer-text {
         display: block;
         text-align: left;
-        padding-top: 10px;
-        padding-bottom: 10px;
+        padding-top: 0;
+        padding-bottom: 20px;
         padding-left: 0;
         margin-left: 0;
     }
