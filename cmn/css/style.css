@@ -235,10 +235,6 @@ select {
   margin-bottom: 30px;
 }
 
-.contact-form-content input[type="submit"] {
-  text-align: center;
-}
-
 input[type="submit"] {
   width: 140px;
   padding: 20px;
