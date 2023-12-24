@@ -60,4 +60,12 @@
         height: auto;
     }
 
+    .discography-content {
+        margin-bottom: 20px;
+    }
+
+    .discography-content-text {
+        margin-top: 20px;
+    }
+
 }
