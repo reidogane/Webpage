@@ -47,10 +47,10 @@ a {
  opacity: 0.6;
 }
 
-.fa-solid {
+.header-menu-icon {
   float: right;
   font-size: 25px;
-  padding: 21px 0;
+  padding: 30px 0;
   display: none;
 }
 
