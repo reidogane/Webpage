@@ -36,7 +36,7 @@
     }
 
     .page-header-title {
-        padding-top: 80px;
+        padding-top: 100px;
         padding-bottom: 40px;
     }
 
@@ -69,8 +69,8 @@
         margin-bottom: 20px;
     }
 
-    .discography-content-text {
-        margin-top: 40px;
+    .discography-content-text h1 {
+        padding-top: 30px;
     }
 
 }
