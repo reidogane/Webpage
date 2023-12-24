@@ -226,6 +226,15 @@ input, textarea {
   margin-bottom: 30px;
 }
 
+select {
+  width: 100%;
+  font-size: 16px;
+  border: 1px solid #dee7ec;
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
 input[type="submit"] {
   width: 140px;
   padding: 20px;
