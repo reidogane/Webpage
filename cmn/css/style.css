@@ -226,6 +226,17 @@ input, textarea {
   margin-bottom: 30px;
 }
 
+input[type="submit"] {
+  width: 140px;
+  padding: 20px;
+  display: inline-block;
+  text-align: center;
+  color: white;
+  background-color: black;
+  border-radius: 4px;
+  transition: .7s;
+}
+
 .page-header {
   margin-top: 0;
   margin-bottom: 0;
