@@ -35,6 +35,11 @@
         margin-left: 0;
     }
 
+    .page-header-title {
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+
     .biography-image {
         width: 100%;
         height: auto;
