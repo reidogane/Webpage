@@ -70,6 +70,7 @@ a {
 }
 
 header {
+  align-items: center;
   display: block;
   color: white;
   background-color: black;

@@ -14,7 +14,7 @@
 
     .footer-image {
         display: block;
-        margin: 10px 0;
+        margin: 0;
     }
 
     .footer-image img {
@@ -24,8 +24,8 @@
     .footer-text {
         display: block;
         padding-top: 20px;
-        padding-left: auto;
-        margin-left: auto;
+        padding-left: 0;
+        margin-left: 0;
     }
 
 }
