@@ -1,5 +1,9 @@
 @media all and (max-width: 670px) {
 
+    .header {
+        height: 40px;
+    }
+
     .header-list {
         display: none;
     }
