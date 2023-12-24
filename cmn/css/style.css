@@ -162,6 +162,8 @@ footer {
 }
 
 .footer-image img:hover {
+  width: 500px; 
+  height: 375px;
   transform: scale(1.1);
   opacity: 0.9;
 }
