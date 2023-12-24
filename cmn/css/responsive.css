@@ -22,13 +22,14 @@
     }
 
     .footer-image img {
-        transform: scale(.7);
+        transform: scale(.6);
     }
 
     .footer-text {
         display: block;
         text-align: left;
         padding-top: 10px;
+        padding-bottom: 10px;
         padding-left: 0;
         margin-left: 0;
     }
