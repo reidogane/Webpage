@@ -35,4 +35,29 @@
         margin-left: 0;
     }
 
+    .biography-image {
+        width: 100%;
+        height: auto;
+    }
+
+    .live-image {
+        width: 100%;
+        height: auto;
+    }
+
+    .news-image {
+        width: 100%;
+        height: auto;
+    }
+
+    .gallery-image {
+        width: 100%;
+        height: auto;
+    }
+
+    .discography-image {
+        width: 100%;
+        height: auto;
+    }
+
 }

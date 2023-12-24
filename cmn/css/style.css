@@ -195,6 +195,8 @@ footer {
 }
 
 .contact-image {
+  width: 700px;
+  height: 516px;
   display: block;
   text-align: center;
   position: relative;
@@ -291,6 +293,8 @@ input[type="submit"] {
 }
 
 .discography-image {
+  width: 500px;
+  height: 500px;
   float: left;
   transition: .7s;
 }
@@ -346,6 +350,8 @@ input[type="submit"] {
 }
 
 .news-image {
+  width: 525px;
+  height: 700px;
   display: block;
   text-align: center;
   position: relative;
@@ -376,6 +382,8 @@ input[type="submit"] {
 }
 
 .biography-image {
+  width: 700px;
+  height: 516px;
   display: block;
   text-align: center;
   position: relative;
@@ -481,6 +489,8 @@ input[type="submit"] {
 }
 
 .live-image {
+  width: 700px;
+  height: 516px;
   display: block;
   text-align: center;
   position: relative;
@@ -496,6 +506,8 @@ input[type="submit"] {
 }
 
 .gallery-image {
+  width: 700px;
+  height: 516px;
   display: block;
   text-align: center;
   position: relative;
