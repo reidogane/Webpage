@@ -236,7 +236,6 @@ select {
 }
 
 .contact-form-content input[type="submit"] {
-  display: block;
   text-align: center;
 }
 
