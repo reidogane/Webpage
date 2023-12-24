@@ -1,6 +1,7 @@
 @media all and (max-width: 670px) {
 
-    .header {
+    header {
+        align-items: center;
         height: 40px;
     }
 
