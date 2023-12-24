@@ -1,8 +1,7 @@
 @media all and (max-width: 670px) {
 
     header {
-        align-items: center;
-        height: 40px;
+        height: 60px;
     }
 
     .header-list {
