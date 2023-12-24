@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>Contact - Rei Dogane & The Sidemen</title>
   <link rel="stylesheet" href="https://reidogane.github.io/webpage/cmn/css/style.css">
+  <link rel="stylesheet" href="https://reidogane.github.io/webpage/cmn/css/responsive.css">
   <script src="https://kit.fontawesome.com/3c7edd67b2.js" crossorigin="anonymous"></script>
 </head>
 
@@ -28,7 +29,7 @@
   <div class="page-main">
     <div class="thanks-message">Thank you.</div>
     <div class="display-contact">
-        
+
       <div class="container">  
         <div class="form-title">入力内容</div>
 
