@@ -8,16 +8,17 @@
     }
 
     .header-logo {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .footer-image img {
-        transform: scale(.5);
+        transform: scale(.7);
     }
 
     .footer-text {
         display: block;
-        padding: 20px auto;
-        margin: 0 auto;
+        padding-top: 20px;
+        padding-left: auto;
+        margin-left: auto;
     }
 }
