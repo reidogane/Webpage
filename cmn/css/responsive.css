@@ -1,1 +1,15 @@
+/* タブレット用レイアウト */
+@media all and (max-width: 1000px) {
 
+}
+
+/* スマホ向けレイアウト */
+@media all and (max-width: 670px) {
+    .header-list {
+        display: none;
+      }
+    
+    .menu-icon {
+        display: block;
+      }
+}
