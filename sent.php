@@ -98,5 +98,6 @@
     </div>
   </footer>
 
+  <script src="https://reidogane.github.io/webpage/cmn/js/script.js"></script>
 </body>
 </html>
