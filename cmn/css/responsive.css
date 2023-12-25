@@ -35,6 +35,10 @@
         margin-left: 0;
     }
 
+    .footer-copyright {
+        font-size: 10px;
+    }
+
     .page-header-title {
         padding-top: 100px;
         padding-bottom: 40px;
