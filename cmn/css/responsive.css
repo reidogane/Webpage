@@ -49,6 +49,10 @@
         height: auto;
     }
 
+    .biography-member li {
+        text-align: left;
+    }
+
     .biography-profile p {
         text-align: left;
     }
