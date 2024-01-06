@@ -41,7 +41,7 @@
     <div class="display-contact">
 
       <div class="container">  
-        <div class="form-title">入力内容</div>
+        <div class="form-title">Contents</div>
 
         <div class="form-item">- First Name -</div>
         <?php echo $_POST['first-name']; ?>
@@ -58,8 +58,8 @@
         <div class="form-item">- Subject -</div>
         <?php echo $_POST['subject']; ?>
 
-        <div class="form-item">■ 名前</div>
-        <?php echo $_POST['first-name']; ?>
+        <div class="form-item">- Message -</div>
+        <?php echo $_POST['message']; ?>
       </div>
 
     </div>
